@@ -1,3 +1,5 @@
 # sampleLogin
 
-User Login using Google FireBase 
+Authentication using Google Firebase API
+
+
